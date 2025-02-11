@@ -1,4 +1,4 @@
-# DECODE: Deep learning-based common deconvolution framework for various omics dataDECODE_decov
+# DECODE: Deep learning-based common deconvolution framework for various omics data
 
 **DECODE** is a deep learning framework designed for solving deconvolution problems across various omics. It utilizes cell abundance as an intermediary to address the integration of multi-omics information at the tissue level. DECODE integrates contrastive learning, adversarial training, and other approaches into a computational framework, achieving the highest accuracy in deconvolution tasks across multiple scenarios.
 <p align="center">
@@ -29,4 +29,11 @@ Step3:Activate the environment:
 ### Usage
 
 The specific usage process can be referenced in the Jupyter notebooks of various experiments in DECODE.
+
+
+## Data
+
+The data used in the experiments can be obtained from Zenodo(https://zenodo.org/records/14847732).
+
+After decompressing the files, simply move the data folder to the corresponding directory with the same name in the DECODE project to use it.
 
